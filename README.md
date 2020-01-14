@@ -1,4 +1,4 @@
-# Optimization_Portfolio_Management
+# Portfolio_Management
 
 ## Scope of Research
 The aim of this project is to use different investment strategies to generate two different optimal portfolios stocks for investors with different risk tolerance. Each portfolio contains 20 stocks in different industries. First, based on the market capital, we choose the top 300 stocks from Nasdaq Composite Index components, then use binary linear programming to build a stock selection model and choose 20 stocks out of 300 stocks data set. The number of stocks in each industry in our portfolio is in proportion to weight of each industry in our dataset. Then we use linear programming to build a capital allocation model to find weights of each stock in our portfolio.
